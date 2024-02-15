@@ -1,5 +1,8 @@
+def greeting():
+    print('Hello Abdullah')
 def main():
     print("WE just learn github")
+    greeting()
 
 
 
